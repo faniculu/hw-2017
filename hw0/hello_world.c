@@ -12,7 +12,7 @@ int main(void) {
     strcpy(str, hello);
     // concatenate str with ", World"
     strcat(str, world);
-    // print "Hello, World"
+    // print "Hello, World"hgdhgdhgdgh
     printf("%s\n",str);
 
     // TODO: use strlen to get the length of str
